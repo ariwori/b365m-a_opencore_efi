@@ -1,3 +1,5 @@
+OpenCore 0.7.1
+
 配置单如下：
    系统：macOS Big Sur 11.5.2
    主板：华硕B365M-A
